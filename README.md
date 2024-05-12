@@ -13,7 +13,9 @@ Results are displayed on screen.
 
 ## Installation
 
-Provide instructions on how to install and set up your project. Include any dependencies that need to be installed and how to install them.
+1. Set up a free account with [Google Cloud](https://console.cloud.google.com/welcome/new?pli=1) <br>
+2. Navigate to Console > Computer Engine <br>
+3. Create an Instance then run it by clicking ```SSH``` <br>
 
 ```bash
 # Example installation commands
