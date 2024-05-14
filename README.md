@@ -6,5 +6,7 @@ Results are displayed on screen.
 
 
 ## Tech Stack
-
+<p align="center">
+  <img width="500px" src="https://skillicons.dev/icons?i=js,html,css,php,mysql&perline=10" />
+</p>
 
